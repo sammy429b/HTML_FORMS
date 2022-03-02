@@ -1,0 +1,28 @@
+*
+{
+  margin: 0%;
+  padding: 0%;
+  font-family: sans-serif;
+}
+fieldset
+{
+  border-radius: 5px;
+  border: 2px solid #262626;
+}
+
+form
+{
+  text-align: center;
+  height: 40vh;
+}
+
+.container
+{
+  margin: 100px 480px 0px 480px;
+}
+
+.container button
+{
+  width: 60%;
+  height: 4vh;
+}
